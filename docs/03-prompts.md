@@ -126,3 +126,4 @@ Para fazer uma recomendação adequada, preciso entender melhor seu perfil. Voc�
 - Os cenários foram criados com situações reais de jovens entre 16 e 24 anos.  
 - Os edge cases reforçam limites importantes: escopo, privacidade e necessidade de contexto.  
 - Respostas curtas, naturais e sem jargões para manter fluidez e acessibilidade.
+- Notei certa dificuldade do chat em negar por exemplo a previsão do tempo.
