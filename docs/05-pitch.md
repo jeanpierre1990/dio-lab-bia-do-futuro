@@ -21,12 +21,10 @@ Nexo é um agente financeiro digital que conversa de forma simples, leve e jovem
 > Mostre o agente funcionando (pode ser gravação de tela)
 
 Ao abrir o Nexo, o usuário vê o avatar do robô e uma frase amigável, podendo fazer perguntas sobre seus gastos ou dúvidas financeiras. Digita sua pergunta numa caixa simples e recebe respostas rápidas, sem jargões, com explicações para criar hábitos melhores. O usuário pode seguir a pergunta, sempre com o Nexo lembrando o contexto, ou começar uma nova conversa a qualquer momento.
-````
 
 
+```
 https://github.com/user-attachments/assets/3e4c2c3c-7bd6-43fd-9efc-73c849beea46
-
-
 ````
 
 ### 4. Diferencial e Impacto (30 seg)
