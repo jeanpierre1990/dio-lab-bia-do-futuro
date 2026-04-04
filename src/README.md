@@ -35,6 +35,15 @@ pip install -r requirements.txt
 # Rodar a aplicação Streamlit
 streamlit run app.py
 
-# Rodar a aplicação
+# Evidências de execução.
+
+<img width="971" height="572" alt="Captura de ecrã 2026-04-04 164218" src="https://github.com/user-attachments/assets/cec04b15-f7b2-48ab-9a8d-6171b9867c40" />
+<img width="1070" height="726" alt="Captura de ecrã 2026-04-04 164312" src="https://github.com/user-attachments/assets/56d3d769-05e1-49f7-ab87-36dbfe6ff4f7" />
+<img width="1124" height="757" alt="Captura de ecrã 2026-04-04 164156" src="https://github.com/user-attachments/assets/7506732b-dd55-42db-a99c-f54c97b32168" />
+
+
+https://github.com/user-attachments/assets/abe7b954-60ff-4dfa-9df3-5655518757bc
+
+
 streamlit run app.py
 ```
