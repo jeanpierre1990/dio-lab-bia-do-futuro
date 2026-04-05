@@ -35,16 +35,14 @@ O Nexo não é apenas um chatbot financeiro genérico: ele personaliza as respos
 
 ## Checklist do Pitch
 
-- [ ] Duração máxima de 3 minutos
+- [x] Duração máxima de 3 minutos
 - [x] Problema claramente definido
 - [x] Solução demonstrada na prática
 - [x] Diferencial explicado
-- [ ] Áudio e vídeo com boa qualidade
+- [x] Áudio e vídeo com boa qualidade
 
 ---
 
 ## Link do Vídeo
 
-> Cole aqui o link do seu pitch (YouTube, Loom, Google Drive, etc.)
-
-[Link do vídeo]
+(https://drive.google.com/file/d/12wIZZkrOJZW0G3cI3zj4EfVjvX3M5pMU/view?usp=sharing)
