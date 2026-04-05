@@ -77,7 +77,7 @@ flowchart TD
 | Componente | Descrição |
 |------------|-----------|
 | Interface | [ex: Chatbot em Streamlit] |
-| LLM | [ex: GPT-4 via API] |
+| LLM | [ex: groqcloud] |
 | Base de Conhecimento | [ex: JSON/CSV com dados do cliente] |
 | Validação | [ex: Checagem de alucinações] |
 
